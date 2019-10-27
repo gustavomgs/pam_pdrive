@@ -1,4 +1,12 @@
 # pam_pdrive
+
+Fatec - Faculdade de Técnologia de Americana
+Sistemas Operacionais II
+Professor: Rossano Pablo Pinto
+
+Aluno: Gustavo Messias Guimarães da Silva
+RA: 0040481821039
+
 Esse projeto é uma das soluções para quem precisa de um modulo de autenticação via pendrive, qualquer pendrive pode ser usado para a instalação do módulo.
 
 Versão 1.0.
