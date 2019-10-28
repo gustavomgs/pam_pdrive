@@ -2,8 +2,11 @@
 
 Sistemas Operacionais II<br>
 Professor: Rossano Pablo Pinto<br>
-Aluno: Gustavo Messias Guimarães da Silva<br>
-RA: 0040481821039<br>
+Alunos: Gustavo Messias Guimarães da Silva - 0040481821039<br>
+        Flávio Junior - 0040481821004 <br>
+        Douglas Ortiz - 00404818210** <br>
+        Matheus Estoque Nunes - 00404818210** <br>
+        Agner Gomes - 00404818210** <br>
 <hr>
 
 Esse projeto é uma das soluções para quem precisa de um modulo de autenticação via pendrive, qualquer pendrive pode ser usado para a instalação do módulo.
