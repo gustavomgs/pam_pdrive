@@ -21,7 +21,7 @@ Versão 1.1 - 28/10/19<br>
   Para instalar inicie o terminal no diretório dos arquivos do módulo:<br>
   Como usuário root digite:<br>
     <li>make</li>
-    <li>make install</li>
+    <li>make install</li><br>
   Pronto, o seu módulo está instalado.<br>
   Abaixo segue a descrição do funcionamento do programa de instalação.
 <hr>
