@@ -8,11 +8,11 @@ RA: 0040481821039<br>
 
 Esse projeto é uma das soluções para quem precisa de um modulo de autenticação via pendrive, qualquer pendrive pode ser usado para a instalação do módulo.
 <br>
-Versão 1.0 - 26/10/19
-Versão 1.1 - 28/10/19
+Versão 1.0 - 26/10/19<br>
+Versão 1.1 - 28/10/19<br>
 
 
-<h4>0 - Instalação</h4>
+<h4>-> Instalação</h4>
 <hr>
   Para instalar:
     <li>make</li>
