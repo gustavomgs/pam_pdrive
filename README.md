@@ -42,7 +42,7 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
       <b>log</b> : Aqui fica localizado o arquivo de log, onde registra data e hora de todos os logins efetuados, e o serial que foi utilizada.<br>
 <hr>
 <h4> >> Demais funcionalidades</h4>
-    <li>Desinstalar < <b>make uninstall</b> > : Remove todos os diretórios e arquivos e desativa o módulo.</li>
+    <li>Desinstalar ```sh make uninstall``` : Remove todos os diretórios e arquivos e desativa o módulo.</li>
     <li>Adcionar Pendrive < <b>make addpendrive</b> > : Plugue um novo pendrive na máquina e digite o comando e será liberado o acesso a esse novo pendrive.</li>
 <hr>
 <h4> >> Limitações </h4>
