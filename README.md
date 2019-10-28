@@ -7,7 +7,7 @@ Alunos:
         <li>Flávio Junior - 0040481821004</li>
         <li>Douglas Ortiz - 0040481821037</li>
         <li>Matheus Estoque Nunes - 0040481821040</li>
-        <li>Agner Gomes - 00404818210**</li>
+        <li>Agner Gomes - 0040481821045</li>
 <hr>
 
 Esse projeto é uma das soluções para quem precisa de um modulo de autenticação via pendrive, qualquer pendrive pode ser usado para a instalação do módulo.
