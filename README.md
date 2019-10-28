@@ -30,9 +30,9 @@ Versão 1.1 - 28/10/19<br>
   O instalador cria duas pastas e dois arquivos necessários<br>
   para o funcionamento do móulo:<br>
     <li>/etc/pam.d/pam.pdrive</li>
-      ->login : Aqui ficam localizados os seriais dos pendrives  instalados, apenas com o usuário root se tem acesso.<br>
+      <br>->login : Aqui ficam localizados os seriais dos pendrives  instalados, apenas com o usuário root se tem acesso.<br>
     <li>/etc/pam.d/pam.pdrive/log</li>
-      ->log : Aqui fica localizado o arquivo de log, onde registra data e hora de todos os logins efetuados, e o serial que foi utilizada.<br>
+      <br>->log : Aqui fica localizado o arquivo de log, onde registra data e hora de todos os logins efetuados, e o serial que foi utilizada.<br>
 <hr>
 <h4> >> Demais funcionalidades</h4>
     <li>Desinstalar <make uninstall> : Remove todos os diretórios e arquivos e desativa o módulo.</li>
