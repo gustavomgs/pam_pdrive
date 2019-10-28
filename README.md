@@ -1,18 +1,19 @@
 <h2>Fatec - Faculdade de Técnologia de Americana</h2>
-<hr>
+
 Sistemas Operacionais II<br>
 Professor: Rossano Pablo Pinto<br>
 Aluno: Gustavo Messias Guimarães da Silva<br>
 RA: 0040481821039<br>
 <hr>
+
 Esse projeto é uma das soluções para quem precisa de um modulo de autenticação via pendrive, qualquer pendrive pode ser usado para a instalação do módulo.
+<br>
+Versão 1.0 - 26/10/19
+Versão 1.1 - 28/10/19
 
-Versão 1.0.
 
-################################################################################################<br>
-0 - Instalação
-################################################################################################<br>
-
+<h4>0 - Instalação</h4>
+<hr>
   Para instalar:
     <li>make</li>
     <li>make install</li>
