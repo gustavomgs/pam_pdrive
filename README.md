@@ -43,17 +43,12 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
 <hr>
 <h4> >> Demais funcionalidades</h4>
     <li>Desinstalar 
-        
-        ```
         $ make uninstal
-        ```
         : Remove todos os diretórios e arquivos e desativa o módulo.</li>
     <li>Adcionar Pendrive 
     
-    ```
     $ make addpendrive
-    ``` 
-    
+
     : Plugue um novo pendrive na máquina e digite o comando e será liberado o acesso a esse novo pendrive.</li>
 <hr>
 <h4> >> Limitações </h4>
