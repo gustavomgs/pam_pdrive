@@ -24,9 +24,11 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
     ```
     $ make
     ```
+    <br>
     ```
     $ make install
     ```
+    <br>
   Pronto, o seu módulo está instalado.<br>
   Abaixo segue a descrição do funcionamento do programa de instalação.
 <hr>
