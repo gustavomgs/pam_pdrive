@@ -7,7 +7,7 @@
     Flávio Junior - 0040481821004
     Douglas Ortiz - 0040481821037
     Matheus Estoque Nunes - 0040481821040
-    Agner Gomes - 00404818210**
+    Agner Gomes - 0040481821045
  */
  
 #include <dirent.h>
