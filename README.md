@@ -21,10 +21,10 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
 
   Para instalar inicie o terminal no diretório dos arquivos do módulo:<br>
   Como usuário root digite:<br>
-    ```sh
+    ```
     $ make
     ```
-    ```sh
+    ```
     $ make install
     ```
   Pronto, o seu módulo está instalado.<br>
