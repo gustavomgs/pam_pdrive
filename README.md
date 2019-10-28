@@ -6,7 +6,7 @@ Alunos:
         <li>Gustavo Messias Guimarães da Silva - 0040481821039</li>
         <li>Flávio Junior - 0040481821004</li>
         <li>Douglas Ortiz - 0040481821037</li>
-        <li>Matheus Estoque Nunes - 00404818210**</li>
+        <li>Matheus Estoque Nunes - 0040481821040</li>
         <li>Agner Gomes - 00404818210**</li>
 <hr>
 
