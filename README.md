@@ -2,11 +2,11 @@
 
 <h2>Fatec - Faculdade de Técnologia de Americana</h2><br>
 
-Sistemas Operacionais II
-Professor: Rossano Pablo Pinto
-Aluno: Gustavo Messias Guimarães da Silva
-RA: 0040481821039
-
+Sistemas Operacionais II<br>
+Professor: Rossano Pablo Pinto<br>
+Aluno: Gustavo Messias Guimarães da Silva<br>
+RA: 0040481821039<br>
+<hr>
 Esse projeto é uma das soluções para quem precisa de um modulo de autenticação via pendrive, qualquer pendrive pode ser usado para a instalação do módulo.
 
 Versão 1.0.
