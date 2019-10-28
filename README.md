@@ -23,9 +23,6 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
   Como usuário root digite:<br>
     
     $ make
-    
-                  
-    
     $ make install
     
   
