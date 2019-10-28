@@ -21,14 +21,14 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
 
   Para instalar inicie o terminal no diretório dos arquivos do módulo:<br>
   Como usuário root digite:<br>
-    ```
+    
     $ make
-    ```
-    <br>
-    ```
+    
+
+    
     $ make install
-    ```
-    <br>
+    
+  
   Pronto, o seu módulo está instalado.<br>
   Abaixo segue a descrição do funcionamento do programa de instalação.
 <hr>
@@ -53,7 +53,12 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
         
         
         
-   : Remove todos os diretórios e arquivos e desativa o módulo.</li>
+    
+    
+    
+    
+    
+ Remove todos os diretórios e arquivos e desativa o módulo.</li>
     <li>Adcionar Pendrive 
        
        $ make addpendrive 
@@ -63,7 +68,7 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
         
         
         
- : Plugue um novo pendrive na máquina e digite o comando e será liberado o acesso a esse novo pendrive.</li>
+ Plugue um novo pendrive na máquina e digite o comando e será liberado o acesso a esse novo pendrive.</li>
 <hr>
 <h4> >> Limitações </h4>
     <li> <b>26/10/19 - Versão 1.0</b> : Grava apenas 1 serial.</li>
