@@ -1,4 +1,4 @@
-<h2>Fatec - Faculdade de Técnologia de Americana</h2>
+<h2>Fatec - Faculdade de Tecnologia de Americana</h2>
 
 Sistemas Operacionais II<br>
 Professor: Rossano Pablo Pinto<br>
@@ -41,7 +41,7 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
 <h4> >> Demais funcionalidades</h4>
     <li>Desinstalar 
         
-       $ make uninstal
+       $ make uninstall
         
         
         
