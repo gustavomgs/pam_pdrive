@@ -5,7 +5,7 @@ pam_pdrive.o: pam_pdrive.c
 
 install: pam_pdrive.o
 	ld -lcurl -x --shared -o /lib64/security/pam_pdrive.so pam_pdrive.o
-	sed -i "5s/^/	auth	  required  pam_pdrive.so\n/" /etc/pam.d/system-auth
+	sed -i "4s/^/	auth	  required  pam_pdrive.so\n/" /etc/pam.d/system-auth
 	gcc criar_arquivos.c -o criar_arquivos
 	gcc addpendrive.c -o add_pendrive
 	./criar_arquivos
