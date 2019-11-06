@@ -15,6 +15,8 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
 <br>
 <b>Versão 1.0 - 26/10/19</b><br>
 <b>Versão 1.1 - 28/10/19</b><br>
+<b>Versão 1.2 - 01/11/19</b><br>
+<b>Versão 1.1 - 06/11/19</b><br>
 <hr>
 
 <h4> >> Instalação</h4>
@@ -72,6 +74,8 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
     
  <hr>
  <h4> >> Atualizações</h4>
-    <li> <b/>28/10/19 - Versão 1.1</b> : Permitido o cadastro ilimitado de pendrives.
+    <li> <b/>28/10/19 - Versão 1.1</b> : Permitido o cadastro ilimitado de pendrives.</li>
+    <li> <b/>01/11/19 - Versão 1.2</b> : Correção de bug ao logar sem pendrive.</li>
+    <li> <b/>06/11/19 - Versão 1.3</b> : Correção de funcionamento, usuário root loga sem precisar validar pendrive.</li>
 
 
