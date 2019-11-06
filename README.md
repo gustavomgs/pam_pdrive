@@ -16,7 +16,7 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
 <b>Versão 1.0 - 26/10/19</b><br>
 <b>Versão 1.1 - 28/10/19</b><br>
 <b>Versão 1.2 - 01/11/19</b><br>
-<b>Versão 1.1 - 06/11/19</b><br>
+<b>Versão 1.3 - 06/11/19</b><br>
 <hr>
 
 <h4> >> Instalação</h4>
