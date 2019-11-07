@@ -71,7 +71,7 @@ Esse projeto é uma das soluções para quem precisa de um modulo de autenticaç
 <hr>
 <h4> >> Limitações </h4>
     <li> <b>26/10/19 - Versão 1.0</b> : Grava apenas 1 serial.</li>
-    <li> <b>01/10/19 - Versão 1.0</b> : Todos usuários precisam de validação por pendrive.</li>
+    <li> <b>01/11/19 - Versão 1.0</b> : Todos usuários precisam de validação por pendrive.</li>
     
  <hr>
  <h4> >> Atualizações</h4>
