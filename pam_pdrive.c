@@ -86,6 +86,29 @@ login_user(){
 		char buf2[256];
 		int i;
 		
+		 len = readlink("/sys/block/sdb", buf, 256);
+	   
+		buf[len] = 0;
+	   
+		// printf("%s\n", buf);
+		sprintf(buf2, "%s/%s", "/sys/block/", buf);
+		for (i=0; i<6; i++) {
+			p = strrchr(buf2, '/');
+			*p = 0;
+		}
+	   
+		// printf("%s\n", buf2);
+		strcat(buf2, "/serial");
+		// printf("opening %s\n", buf2);
+
+		int f = open(buf2, 0);
+		len = read(f, buf, 256);
+		if (len <= 0) {
+			
+		}
+	 
+		buf[len - 1 ] = 0;
+		
 		FILE *g = fopen("/etc/pam.d/pam.pdrive/pdrive.serial", "r");
 		size_t serial = 100; 
 		char *linha = malloc(serial);
